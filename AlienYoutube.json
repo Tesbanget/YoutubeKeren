@@ -1,12 +1,12 @@
 {
     "Ads": [
         {
-            "api_key_youtube": "AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
-            "api_key_youtube2": "AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
-            "api_key_youtube3": "AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
-            "api_key_youtube4": "AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
-            "api_key_youtube5": "AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
-            "playlist_id": "PL8dcxU4nl7E15T2I3u5IPuOc12msTcwo2",
+            "api_key_youtube": "AIzaSyBaeZRWMkKE9waxi4IkTH994VQ0NrYdDeU",
+            "api_key_youtube2": "AIzaSyBaeZRWMkKE9waxi4IkTH994VQ0NrYdDeU",
+            "api_key_youtube3": "AIzaSyBaeZRWMkKE9waxi4IkTH994VQ0NrYdDeU",
+            "api_key_youtube4": "AIzaSyBaeZRWMkKE9waxi4IkTH994VQ0NrYdDeU",
+            "api_key_youtube5": "AIzaSyBaeZRWMkKE9waxi4IkTH994VQ0NrYdDeU",
+            "playlist_id": "PLbseqakYAQJkMEauWia8QosKMejorYo_L",
             "select_main_ads": "ADMOB",
             "select_backup_ads": "APPLOVIN-D",
             "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
